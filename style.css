@@ -267,6 +267,9 @@ a {
 	.swiper-button-next::after, .swiper-button-prev::after {
 		font-size: 25px !important;
 	}
+	.br_clients {
+		margin: 0 20px;
+	}
 }
 @media all and (max-width: 620px) {
 	.br_mission .img {
